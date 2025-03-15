@@ -1,7 +1,7 @@
 #Exercício de POO 
 ## Módulo Centro Universitário 
 
-![logo](url:"https://seeklogo.com/images/M/M__dulo_Centro_Universit__rio-logo-7C48139E2C-seeklogo.com.png")
+![logo]("https://seeklogo.com/images/M/M__dulo_Centro_Universit__rio-logo-7C48139E2C-seeklogo.com.png")
 
 ## O que foi pedido?
 
